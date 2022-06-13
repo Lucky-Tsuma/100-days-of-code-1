@@ -5,6 +5,5 @@ The log of my #100DaysOfCode challenge. Started on [June 13, Monday, 2022].
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Completed a challenge on Frontend Mentor. Interactive rating component. Solution [here](https://rating-component-lucky.netlify.app/)
 
-### R1D2
