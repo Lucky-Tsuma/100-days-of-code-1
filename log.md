@@ -9,3 +9,9 @@
 **Relevant Link(s)**
 1. [Live site URL](https://rating-component-lucky.netlify.app/)
 2. [Github Repository](https://github.com/Lucky-Tsuma/interactive-rating-component)
+
+### Day 2: June 14, Tuesday
+
+**Today's Progress**: I have learnt CRUD operations using mongoose.
+
+**Thoughts** Followed a tutorial on CRUD operations using mongoose. Concepts were not hard to grasp. Doing exercises on the same tommorrow.
