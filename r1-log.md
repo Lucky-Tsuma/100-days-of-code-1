@@ -7,3 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [June 13, Monday, 2022].
 ### R1D1 
 Completed a challenge on Frontend Mentor. Interactive rating component. Solution [here](https://rating-component-lucky.netlify.app/)
 
+### R1D2
+Followed a tutorial on CRUD operations using mongoose. 
+
+
