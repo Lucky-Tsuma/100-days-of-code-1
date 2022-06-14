@@ -15,3 +15,7 @@
 **Today's Progress**: I have learnt CRUD operations using mongoose.
 
 **Thoughts** Followed a tutorial on CRUD operations using mongoose. Concepts were not hard to grasp. Doing exercises on the same tommorrow.
+
+**Relevant Link(s)**
+1. [Sample code](https://github.com/Lucky-Tsuma/mongo-demo)
+
