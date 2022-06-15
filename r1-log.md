@@ -10,4 +10,7 @@ Completed a challenge on Frontend Mentor. Interactive rating component. Solution
 ### R1D2
 Followed a tutorial on CRUD operations using mongoose. 
 
+### R1D3
+Did exercises on CRUD operations using mongoose. Finished tutorial on CRUD opeations by checking on updating and deleting documents.
+
 
