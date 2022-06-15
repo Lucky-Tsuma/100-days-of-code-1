@@ -19,3 +19,12 @@
 **Relevant Link(s)**
 1. [Sample code](https://github.com/Lucky-Tsuma/mongo-demo)
 
+### Day 3: June 15, Wednesday
+
+**Today's Progress**: I have done exercises to practice on CRUD operations using mongoose.
+
+**Thoughts** Just realised that mongoose database tools have to be installed separately on windows. Finished the tutorial by checking up on updating and deleting documents using mongoose.
+
+**Relevant Link(s)**
+1. [Practice exercise solution](https://github.com/Lucky-Tsuma/mongo-exercises)
+
