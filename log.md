@@ -28,3 +28,13 @@
 **Relevant Link(s)**
 1. [Practice exercise solution](https://github.com/Lucky-Tsuma/mongo-exercises)
 
+### Day 4: June 16, Thursday
+
+**Today's Progress**: I have learnt about data validation using mongoose. I as well did a test on HTML/CSS on turing. Started working on an exercise to better understand data validation using mongoose.
+
+**Thoughts** Lots of learning, did a little practicals. Not a very productive day.
+
+**Relevant Link(s)**
+1. N/A
+
+
