@@ -13,4 +13,8 @@ Followed a tutorial on CRUD operations using mongoose.
 ### R1D3
 Did exercises on CRUD operations using mongoose. Finished tutorial on CRUD opeations by checking on updating and deleting documents.
 
+### R1D4
+Learnt about data validation using mongoose. Did a HTML/CSS test on turing, passed. Started working on an exercise to better understand data validation using mongoose.
+
+
 
