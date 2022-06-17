@@ -37,4 +37,13 @@
 **Relevant Link(s)**
 1. N/A
 
+### Day 5: June 17, Friday
+
+**Today's Progress**: Did an exercise to practice on data validation using mongoose. Restructured project so each module handles a specific task.
+
+**Thoughts** Modularization makes code cleaner and easier to maintain. Grasping concepts even better especially asynchronous javascript and routing.
+
+**Relevant Link(s)**
+1. [Sample code](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
 
