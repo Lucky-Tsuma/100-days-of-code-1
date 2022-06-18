@@ -46,4 +46,14 @@
 **Relevant Link(s)**
 1. [Sample code](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
+### Day 6: June 18, Saturday
+
+**Today's Progress**: Started a challenge on Frontend Mentor. Completing it tommorrow.
+
+**Thoughts** Not a very a productive day. Completing the challenge tomorrow.
+
+**Relevant Link(s)**
+1. N/A
+
+
 
