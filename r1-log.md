@@ -19,5 +19,8 @@ Learnt about data validation using mongoose. Did a HTML/CSS test on turing, pass
 ### R1D5
 Practised CRUD operations on mongodb, data validation. Included routes as well. Completed an exercise on the same. Also restructured my code so each module handles a specific task.
 
+### R1D6
+Started a challenge on Frontend Mentor. Halfway done.
+
 
 
