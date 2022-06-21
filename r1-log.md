@@ -23,4 +23,16 @@ Practised CRUD operations on mongodb, data validation. Included routes as well. 
 Started a challenge on Frontend Mentor. Halfway done.
 
 
+### R1D7
+Completed layout and design of the Frontend Mentor challenge.
+
+
+### R1D8
+Fixed a bug. Completed javascript, got it to work on the Frontend Mentor challenge.
+
+
+### R1D9
+Final touches on the frontend Mentor challenge.
+
+
 
