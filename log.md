@@ -55,5 +55,37 @@
 **Relevant Link(s)**
 1. N/A
 
+### Day 7: June 19, Sunday
+
+**Today's Progress**: Completed the CSS/HTML part of the challenge. Triyng to get javascript to work. Had a bug.
+
+**Thoughts** Made awesome progress on the layout and styling of the challenge. Realised the bootstrap dumped col-xs-* for col-*
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/expenses-chart-component)
+2. [Live-Url](https://expense-chart-lucky.netlify.app/)
+
+
+### Day 8: June 20, Monday
+
+**Today's Progress**: Fixed bug and got javascript to work. 
+
+**Thoughts** I still do not understand why i could not loop over an imported array. Resolved to declaring it in the same file. Something worth checking up.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/expenses-chart-component)
+2. [Live-Url](https://expense-chart-lucky.netlify.app/)
+
+
+### Day 9: June 21, Tuesday
+
+**Today's Progress**: Final touches on the Frontend Mentor challenge. 
+
+**Thoughts** Project complete thou it still does not look very good on mobile. Took rather long. Shouldn't happen in future.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/expenses-chart-component)
+2. [Live-Url](https://expense-chart-lucky.netlify.app/)
+
 
 
