@@ -34,5 +34,8 @@ Fixed a bug. Completed javascript, got it to work on the Frontend Mentor challen
 ### R1D9
 Final touches on the frontend Mentor challenge.
 
+### R1D10
+Learnt about modelling relationships between connected data on mongodb, using mongoose.
+
 
 
