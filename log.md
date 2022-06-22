@@ -87,5 +87,14 @@
 1. [Github link](https://github.com/Lucky-Tsuma/expenses-chart-component)
 2. [Live-Url](https://expense-chart-lucky.netlify.app/)
 
+### Day 10: June 22, Wednesday
+
+**Today's Progress**: Learnt about modelling relationships between connected data on mongodb. 
+
+**Thoughts** Will be handling exercises on the same. Tommorrow.
+
+**Relevant Link(s)**
+1. N/A
+
 
 
