@@ -37,5 +37,8 @@ Final touches on the frontend Mentor challenge.
 ### R1D10
 Learnt about modelling relationships between connected data on mongodb, using mongoose.
 
+### R1D11
+Did exercises to practice on modelling relationships between related data on mongodb. Also looked at the fawn library used to handle transcations in mongodb.
+
 
 
