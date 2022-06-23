@@ -96,5 +96,14 @@
 **Relevant Link(s)**
 1. N/A
 
+### Day 11: June 23, Thursday
+
+**Today's Progress**: Did exercises to practice on modelling relationships between related data on mongodb. Also looked at the fawn library. 
+
+**Thoughts** The [fawn library](https://www.npmjs.com/package/fawn) used to handle transcations in mongodb is exciting an worth exploring. Really good concept. Also had an indepth look at the ***ObjectId*** property used in mongodb documents and what king of data it holds.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
 
 
