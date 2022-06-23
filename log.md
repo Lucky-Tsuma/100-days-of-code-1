@@ -101,6 +101,7 @@
 **Today's Progress**: Did exercises to practice on modelling relationships between related data on mongodb. Also looked at the fawn library. 
 
 **Thoughts** The [fawn library](https://www.npmjs.com/package/fawn) used to handle transcations in mongodb is exciting an worth exploring. Really good concept. Also had an indepth look at the ***ObjectId*** property used in mongodb documents and what king of data it holds.
+Also learnt how to use joi to validate objectId for mongodb using [joi-objectid](https://www.npmjs.com/package/joi-objectid)
 
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
