@@ -106,5 +106,14 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
+### Day 12: June 24, Friday
+
+**Today's Progress**: Learnt about Authentication and Authorization on Node.js
+
+**Thoughts** Revisited the bcrypt library for hashing passwords and the jsonwebtoken library for creating JSON Web Tokens. Also revisited the lodash library which has many function utilities that make it easy to work with objects, arrays etc in javascript.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
 
 
