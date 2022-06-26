@@ -45,6 +45,14 @@ Did exercises to practice on modelling relationships between related data on mon
 Learnt about Authentication and Authorization on Node.js. Completing on the remaining bit tommorrow.
 
 
+### R1D13
+Contonued learning about authentication and authorization on node.js
+
+
+### R1D14
+Cleared the part on Authentication and authorization. Started learning about handling and logging errors, used express error middleware.
+
+
 
 
 
