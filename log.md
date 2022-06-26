@@ -116,4 +116,15 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
+### Day 13: June 25, Saturday
+
+**Today's Progress**: Continued Learning on Authentication and Authorization on Node.js
+
+**Thoughts** Learnt how to set response headers, encapsulate logic on mongoose models, create authorization middleware.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
+
 
