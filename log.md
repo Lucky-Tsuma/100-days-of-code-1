@@ -126,5 +126,15 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
+### Day 14: June 26, Sunday
+
+**Today's Progress**: Finished the part on authorization and authentication. Started learning about handing and logging errors.
+
+**Thoughts** Nothng much, hoping to finish handling and logging errors tommorrow.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
 
 
