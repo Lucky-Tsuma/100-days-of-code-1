@@ -133,6 +133,26 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 **Thoughts** Nothng much, hoping to finish handling and logging errors tommorrow.
 
 **Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo
+
+
+### Day 15: June 27, Monday
+
+**Today's Progress**: Did handling and logging errors on Node.js. 
+
+**Thoughts** Great learning to use the [express-async-errors](https://www.npmjs.com/package/express-async-errors) and [winston](https://www.npmjs.com/package/winston) libraries. Also saw how to remove try-catch blocks from route handlers to we can have a single location to handle errors. Had little trouble understanding how to use the winston library thou.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
+### Day 16: June 28, Tuesday
+
+**Today's Progress**: Still on handling and logging errors on Node.js. Also wrote some c++ a client. 
+
+**Thoughts** Spend a huge part of the day on the c++ code. Did a bit of error handling and logging. Still haven't made much progress.
+
+**Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
