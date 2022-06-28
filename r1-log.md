@@ -53,6 +53,13 @@ Contonued learning about authentication and authorization on node.js
 Cleared the part on Authentication and authorization. Started learning about handling and logging errors, used express error middleware.
 
 
+### R1D15
+Error handling and logging on Node.js
+
+
+### R1D15
+Still on error handling and logging on Node.js. Wrote some c++ code for a client.
+
 
 
 
