@@ -57,7 +57,7 @@ Cleared the part on Authentication and authorization. Started learning about han
 Error handling and logging on Node.js
 
 
-### R1D15
+### R1D16
 Still on error handling and logging on Node.js. Wrote some c++ code for a client.
 
 
