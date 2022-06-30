@@ -60,6 +60,12 @@ Error handling and logging on Node.js
 ### R1D16
 Still on error handling and logging on Node.js. Wrote some c++ code for a client.
 
+### R1D17
+Fixed a bug. Continued with error handling and logging.
+
+### R1D18
+Finished on error handling and logging. Refactored code. Started learning about unit testing.
+
 
 
 
