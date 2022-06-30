@@ -156,5 +156,25 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
+### Day 17: June 29, Wednesday
+
+**Today's Progress**: Made some progress on Handling and logging errors. 
+
+**Thoughts** Fixed a bug that had bothered me on the previous day. Made some progress. Learnt how to use the [wiston](https://www.npmjs.com/package/winston) library to log  messaeges to different transports.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
+### Day 18: June 30, Thursday
+
+**Today's Progress**: Finished the part on Handling and logging errors. 
+
+**Thoughts** Refactored my Node.js code. Separated concerns from the index file so it is only used for orchestration. Also learnt how to use the [wiston-mongodb] (https://www.npmjs.com/package/winston-mongodb) library. Started learning about unit testing using jest.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
 
 
