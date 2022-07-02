@@ -65,7 +65,6 @@
 1. [Github link](https://github.com/Lucky-Tsuma/expenses-chart-component)
 2. [Live-Url](https://expense-chart-lucky.netlify.app/)
 
-
 ### Day 8: June 20, Monday
 
 **Today's Progress**: Fixed bug and got javascript to work. 
@@ -75,7 +74,6 @@
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/expenses-chart-component)
 2. [Live-Url](https://expense-chart-lucky.netlify.app/)
-
 
 ### Day 9: June 21, Tuesday
 
@@ -115,7 +113,6 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
-
 ### Day 13: June 25, Saturday
 
 **Today's Progress**: Continued Learning on Authentication and Authorization on Node.js
@@ -124,7 +121,6 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
-
 
 ### Day 14: June 26, Sunday
 
@@ -135,7 +131,6 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo
 
-
 ### Day 15: June 27, Monday
 
 **Today's Progress**: Did handling and logging errors on Node.js. 
@@ -144,7 +139,6 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
-
 
 ### Day 16: June 28, Tuesday
 
@@ -155,7 +149,6 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
-
 ### Day 17: June 29, Wednesday
 
 **Today's Progress**: Made some progress on Handling and logging errors. 
@@ -165,7 +158,6 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
-
 ### Day 18: June 30, Thursday
 
 **Today's Progress**: Finished the part on Handling and logging errors. 
@@ -173,6 +165,25 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 **Thoughts** Refactored my Node.js code. Separated concerns from the index file so it is only used for orchestration. Also learnt how to use the [wiston-mongodb] (https://www.npmjs.com/package/winston-mongodb) library. Started learning about unit testing using jest.
 
 **Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+### Day 19: July 1, Friday
+
+**Today's Progress**: Learnt about unit testing.
+
+**Thoughts** Found the concept rather useful as writing unit tests saves us the hustle of having to run the UI just to test a single function. Learnt to use the [jest](https://www.npmjs.com/package/jest) library to write unit tests.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/testing-demo)
+
+### Day 20: July 2, Saturday
+
+**Today's Progress**: Finished learning about unit testing.
+
+**Thoughts** Completed the remaining part from the previuos day which mainly involved creating mock functions, both custom and jest mock functions. Did a little exercise on the vidly app, wrote a unit test for the function that generates user tokens upon login and signup. Started a bit on integration testing. Prepared the vidly app for integration testing.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/testing-demo)
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
