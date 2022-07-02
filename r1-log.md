@@ -66,6 +66,12 @@ Fixed a bug. Continued with error handling and logging.
 ### R1D18
 Finished on error handling and logging. Refactored code. Started learning about unit testing.
 
+### R1D19
+Learnt about unit testing. Whole day.
+
+### R1D20
+Finished the ramaining bit on unit testing(Mainly creating mock functions using jest). Started a bit of integration testing. Prepared project for integration testing.
+
 
 
 
