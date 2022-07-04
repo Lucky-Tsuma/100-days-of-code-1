@@ -72,6 +72,9 @@ Learnt about unit testing. Whole day.
 ### R1D20
 Finished the ramaining bit on unit testing(Mainly creating mock functions using jest). Started a bit of integration testing. Prepared project for integration testing.
 
+### R1D21
+Working with integration testing using jest and supertest.
+
 
 
 
