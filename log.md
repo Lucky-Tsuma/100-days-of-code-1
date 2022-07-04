@@ -184,6 +184,16 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 
 **Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/testing-demo)
+2. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
+### Day 21: July 4, Monday
+
+**Today's Progress**: Working on integration testing.
+
+**Thoughts** Learnt that it is essential to reload the server when starting to run a test suite using the ***beforeEach*** utility function and close the server after running a test suite in the ***afterEAch*** utility function. Also learnt how to use the [supertest]() library to test endpoints.
+
+**Relevant Link(s)**
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
