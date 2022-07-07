@@ -75,6 +75,9 @@ Finished the ramaining bit on unit testing(Mainly creating mock functions using 
 ### R1D21
 Working with integration testing using jest and supertest.
 
+### R1D22
+Finished learning about integration testing. Learnt how to use jest code coverage tool.
+
 
 
 
