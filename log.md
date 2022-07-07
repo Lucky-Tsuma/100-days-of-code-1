@@ -197,5 +197,15 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
+### Day 22: July 7, Thursday
+
+**Today's Progress**: Finished learning about integration testing.
+
+**Thoughts** Coded along. Learnt about jest's code coverage tool.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
 
 
