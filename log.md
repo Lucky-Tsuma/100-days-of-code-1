@@ -207,5 +207,15 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
+### Day 23: July 8, Friday
+
+**Today's Progress**: Learnt test driven development.
+
+**Thoughts** Coded along. Did exercises.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+
+
 
 
