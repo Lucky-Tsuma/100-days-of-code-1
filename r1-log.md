@@ -81,6 +81,9 @@ Finished learning about integration testing. Learnt how to use jest code coverag
 ### R1D23
 Learnt test driven development.
 
+### R1D24
+Finished test driven development. Learnt how to deploy Node.js app. Deployed to heroku. Getting mongoDB to cloud still a problem.
+
 
 
 
