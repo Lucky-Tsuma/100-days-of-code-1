@@ -217,5 +217,17 @@ Also learnt how to use joi to validate objectId for mongodb using [joi-objectid]
 1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
 
 
+### Day 24: July 9, Saturday
+
+**Today's Progress**: Learnt to deploy Node.js applications.
+
+**Thoughts** Learnt how to set up Node.js applications for deployment. Deployed to heroku. Still trying to set up MongoDB in the cloud. 
+Bonus: Learnt how to create static methods for mongoose models, mongoose models have a **statics** property which we use to create static methods. Same way we can add instacne methods to mongoose models using the **methods** property.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+2. [Heroku Link](https://vidly-mongo.herokuapp.com)
+
+
 
 
