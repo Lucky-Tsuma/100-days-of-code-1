@@ -84,6 +84,9 @@ Learnt test driven development.
 ### R1D24
 Finished test driven development. Learnt how to deploy Node.js app. Deployed to heroku. Getting mongoDB to cloud still a problem.
 
+### R1D25
+Revisited basic react concepts. ***create-react-app*** keeps aborting installation. App deployed on heroku keeps crashing.
+
 
 
 
