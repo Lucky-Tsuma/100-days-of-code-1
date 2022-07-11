@@ -229,5 +229,16 @@ Bonus: Learnt how to create static methods for mongoose models, mongoose models 
 2. [Heroku Link](https://vidly-mongo.herokuapp.com)
 
 
+### Day 25: July 9, Monday
+
+**Today's Progress**: Revisited react basic concepts.
+
+**Thoughts** Revisited basic react concepts. ***create-react-app*** keeps aborting installation. App deployed on heroku keeps crashing. Working to fix those. Finally got the database connection string from mongodb atlas.
+
+**Relevant Link(s)**
+1. [Github link](https://github.com/Lucky-Tsuma/Vidly-With-Mongo-)
+2. [Heroku Link](https://vidly-mongo.herokuapp.com)
+
+
 
 
